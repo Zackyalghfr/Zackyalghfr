@@ -1,8 +1,12 @@
 # 💫 About Me:
 👋 Hi, I'm Muhammad Zacky Al Ghifari, a Computer Science student at Universitas Brawijaya, Faculty of Computer Science, with a strong focus on Backend Development.
+
 💻 I enjoy building things behind the scenes and turning ideas into reliable, maintainable, and scalable backend systems.
+
 🚀 I'm currently learning and building with Java, Spring Boot, Go, Gin, Laravel, and MySQL, while deepening my knowledge of REST APIs, database design, backend architecture, and software development practices.
+
 📚 I'm continuously improving my backend development skills by building projects, experimenting with different technologies, and learning how to design better systems.
+
 Currently learning, building, breaking, fixing, and learning again. 🚀
 
 ## 🌐 Socials:
