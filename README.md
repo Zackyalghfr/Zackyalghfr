@@ -30,7 +30,7 @@ Currently learning, building, breaking, fixing, and learning again. 🚀
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Zackyalghfr&icon=0&color=0)](https://visitcount.itsvg.
+[![](https://komarev.com/ghpvc/?username=Zackyalghfr&icon=0&color=2E8B57)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zackyalghfr/Zackyalghfr/output/github-contribution-grid-snake-dark.svg">
