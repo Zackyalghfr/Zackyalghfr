@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Computer Science student at Universitas Brawijaya who enjoys building things from behind the scenes a backend developer who believes a good application isn't just about working, but working securely. Beyond coding, I'm also fairly obsessed with cybersecurity it's taught me to think not just "how do I make this feature work", but also "how do I make this feature hard to break".<br>I'm currently working on building several backend systems with Spring Boot, Go, and laravel. I'm currently learning Go and focus on how to build the right backend system, Java, Spring Boot, Express.js, Laravel, database design (MySQL), backend architecture, or just chatting about cybersecurity.
+👋 Hi, I'm Muhammad Zacky Al Ghifari, a Computer Science student at Universitas Brawijaya, Faculty of Computer Science, with a strong focus on Backend Development.
+💻 I enjoy building things behind the scenes and turning ideas into reliable, maintainable, and scalable backend systems.
+🚀 I'm currently learning and building with Java, Spring Boot, Go, Gin, Laravel, and MySQL, while deepening my knowledge of REST APIs, database design, backend architecture, and software development practices.
+📚 I'm continuously improving my backend development skills by building projects, experimenting with different technologies, and learning how to design better systems.
+Currently learning, building, breaking, fixing, and learning again. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zackyalghfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zacky-al-ghifari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zackyalghifr@gmail.com)
