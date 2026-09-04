@@ -25,7 +25,6 @@ Hi, I'm Muhammad Zacky Al Ghifari, a Information Technology Edu student at Unive
 <br>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zackyalghfr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
 
