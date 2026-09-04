@@ -24,5 +24,4 @@ Hi, I'm Muhammad Zacky Al Ghifari, a Information Technology Edu student at Unive
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Zackyalghfr&icon=0&color=2E8B57)](https://visitcount.itsvg.in)
 
