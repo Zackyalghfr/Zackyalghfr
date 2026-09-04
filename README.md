@@ -26,7 +26,3 @@ Hi, I'm Muhammad Zacky Al Ghifari, a Information Technology Edu student at Unive
 ---
 [![](https://komarev.com/ghpvc/?username=Zackyalghfr&icon=0&color=2E8B57)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zackyalghfr/Zackyalghfr/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Zackyalghfr/Zackyalghfr/output/github-contribution-grid-snake.svg">
-</picture>
