@@ -16,17 +16,21 @@ Hi, I'm Muhammad Zacky Al Ghifari, a Information Technology Edu student at Unive
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
 
-<br> <br>
+<br><br>
 
-
-![](https://github-readme-stats.shion.dev/api?username=Zackyalghfr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Zackyalghfr&theme=shadow_green&hide_border=false)
-
-<br>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=Zackyalghfr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=Zackyalghfr&theme=shadow_green&hide_border=false" /></td>
+  </tr>
+</table>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zackyalghfr&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+<br>
 
 ![snake gif](https://raw.githubusercontent.com/Zackyalghfr/Zackyalghfr/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ---
