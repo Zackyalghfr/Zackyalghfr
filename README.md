@@ -9,6 +9,7 @@ Hi, I'm Muhammad Zacky Al Ghifari, a Information Technology Education student at
 </div>
 
 ## Tech Stack:
+## Tech Stack:
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Go"/>
@@ -18,9 +19,12 @@ Hi, I'm Muhammad Zacky Al Ghifari, a Information Technology Education student at
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" alt="Prisma"/>
 
 </div>
-
 <br><br>
 
 <table>
