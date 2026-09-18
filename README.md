@@ -9,7 +9,6 @@ Hi, I'm Muhammad Zacky Al Ghifari, a Information Technology Education student at
 </div>
 
 ## Tech Stack:
-## Tech Stack:
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Go"/>
